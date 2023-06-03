@@ -1,3 +1,6 @@
+# Config file
+src/main/kotlin/Config.kt
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar

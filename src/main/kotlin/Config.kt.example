@@ -1,0 +1,6 @@
+object Config {
+	const val apiKey = "your-api-key-here"
+	const val initialContext = """
+		Add your initial context here, if any. Else make this blank.
+	"""
+}
